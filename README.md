@@ -1,2 +1,7 @@
 # RegEx-WebDemo-js
-Java Script - web login in
+This is a Java Script - Web Login In Project.
+
+# Instructions
+
+You only need to edit the login.js (JavaScript File)
+
