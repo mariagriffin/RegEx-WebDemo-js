@@ -40,7 +40,7 @@ function validateEmail() {
     var EmailRegEx = "FILL IN THE REG-EX" ;
 
 /*   HINT........ 
-    if (usernameRegEx.test(username)) {
+    if (EmailRegEx.test(emailEntered)) {
             // COMPLETE YOU CHECK.....
     }
 */
